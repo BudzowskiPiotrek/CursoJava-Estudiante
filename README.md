@@ -1,4 +1,4 @@
-# CursoJava-Estudiante
+# CursoJava - Estudiante
 Crea una clase Estudiante que tendrá como atributos nombre, edad, notaMedia cada uno con su
 modificador de acceso correspondiente y su tipo de dato. Entre los parámetros debe también de estar un
 totalEstudiantes que será un atributo static y que llevará la cuenta de alumnos registrados.
